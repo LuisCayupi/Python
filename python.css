@@ -1,0 +1,237 @@
+*d {
+    outline: 1px dotted red;
+}
+
+div.conteiner {
+    width: 980px;
+    height: 970px;
+    background: linear-gradient(rgb(36, 80, 118), rgb(50, 112, 166));
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.head {
+    height: 140px;
+    width: 980px;
+}
+
+div.img {
+    width: 470px;
+    height: 140px;
+    display: inline-block;
+}
+
+div.img img {
+    width: 470px;
+    height: 140px;
+}
+
+div.search {
+    vertical-align: top;
+    text-align: end;
+    display: inline-block;
+    width: 505px;
+    height: 140px;
+}
+
+div.search p {
+    vertical-align: top;
+    margin: 10px 80px 10px 0px;
+    color: white;
+}
+
+div.search input {
+    text-align: center;
+}
+
+div.search span {
+    color: black;
+}
+
+div.search a {
+    color: yellow;
+}
+
+div.search form {
+    background-color: rgb(68, 68, 68);
+    padding: 20px 30px 20px 30px;
+    width: 218px;
+    margin-left: 200px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 5px rgb(32, 32, 32);
+}
+
+div.search .go {
+    border: solid white 1px;
+    background-color: rgb(36, 80, 118);
+    color: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgb(32, 32, 32);
+}
+
+div.menu {
+    background-color: rgb(72, 127, 173);
+    height: 50px;
+    width: 865px;
+    margin-left: 60px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 5px rgb(32, 32, 32);
+}
+
+div.menu li {
+    display: inline;
+}
+
+div.menu li a {
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 16px;
+    font-family: Arial;
+    font-size: 22px;
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+    color: #fff;
+}
+
+div.content .flecha {
+    color: yellow;
+}
+
+div.content ul {
+    list-style: none;
+    width: 180px;
+    text-align: center;
+    width: 245px;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+div.content li {
+    margin: 10px 0px 10px 0px;
+    padding: 0px;
+    color: tomato;
+}
+
+div.content li a {
+    color: white;
+    font-size: 20px;
+}
+
+div.content .parrafo {
+    vertical-align: top;
+    display: inline-block;
+    width: 567px;
+    text-align: center;
+    font-size: 13px;
+    color: white;
+}
+
+div.content .amarilla {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 567px;
+    color: rgb(230, 196, 56);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-style: oblique;
+    font-weight: lighter;
+}
+
+div.content .finparrafo {
+    font-size: 16px;
+}
+
+div.listas {
+    border-top: rgb(25, 57, 86) solid 5px;
+    vertical-align: top;
+    background-color: white;
+    height: 300px;
+}
+
+div.getting {
+    vertical-align: top;
+    width: 400px;
+    text-align: center;
+    margin-left: 112px;
+    margin-top: 10px;
+    display: inline-block;
+    border-top: rgb(143, 185, 222) solid 5px;
+}
+
+div.getting h3 {
+    width: 329px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+div.getting p {
+    width: 329px;
+    margin-left: 10px;
+}
+
+div.getting ul {
+    width: 289px;
+    margin-left: 10px;
+}
+
+div.getting a {
+    text-decoration: none;
+    color: rgb(119, 169, 214);
+}
+
+div.applications {
+    vertical-align: top;
+    width: 400px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 10px;
+    display: inline-block;
+    border-top: rgb(143, 185, 222) solid 5px;
+}
+
+div.applications h3 {
+    width: 329px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+div.applications p {
+    width: 329px;
+    margin-left: 10px;
+}
+
+div.applications p a {
+    font-size: 14px;
+}
+
+div.applications ul {
+    width: 289px;
+    margin-left: 10px;
+}
+
+div.applications a {
+    text-decoration: none;
+    color: rgb(119, 169, 214);
+}
+
+div.pie {
+    margin-left: 165px;
+    margin-top: 65px;
+}
+
+div.pie a {
+    color: rgb(123, 174, 219);
+    text-decoration: none;
+    text-align: center;
+    margin: 30px;
+}
+
+div.pie h6 {
+    color: rgb(123, 174, 219);
+    margin-top: 20px;
+    margin-left: 255px;
+}
